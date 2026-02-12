@@ -6,3 +6,4 @@ let j;
 function f(){
 console.log("jo"+e);
 }
+f();
